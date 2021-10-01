@@ -5,6 +5,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
+- 👋 Hi, I’m @Bunny77K9
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning Software Engineering at University Of Westminster
+- 💞️ I’m looking to collaborate on cloud developing
+- 📫 How to reach me ...  @ nadundias321@gmail.com
+
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
   <h2 align="center">GitHub Profile Trophy</h2>
@@ -28,12 +34,6 @@
   </a>
 </p>
 
-
-- 👋 Hi, I’m @Bunny77K9
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Software Engineering at University Of Westminster
-- 💞️ I’m looking to collaborate on cloud developing
-- 📫 How to reach me ...  @ nadundias321@gmail.com
 <!---
 Bunny77K9/Bunny77K9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
