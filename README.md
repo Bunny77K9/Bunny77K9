@@ -1,3 +1,6 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+
 - 👋 Hi, I’m @Bunny77K9
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Software Engineering at University Of Westminster
