@@ -1,4 +1,4 @@
-[![Nandun's GitHub Banner](./assets/SL_073119_22070_22.jpg)](https://braydoncoyer.dev)
+[![Nandun's GitHub Banner](./assets/SL_073119_22070_22.jpg)]
 
 
 - 👋 Hi, I’m @Bunny77K9
