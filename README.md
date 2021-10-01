@@ -34,7 +34,7 @@
   </a>
 </p>
 
-![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
+[![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
 <!---
 Bunny77K9/Bunny77K9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
