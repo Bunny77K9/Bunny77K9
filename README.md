@@ -1,4 +1,7 @@
 ![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)
+<p align="center">
+[![Nandun's Contribution Snake](./assets/contribution-snake.svg)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
+</p>
 [![Nandun's Contribution Snake](./assets/contribution-snake.svg)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
 ![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)
@@ -29,9 +32,6 @@
   </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
-  </a>
-</p>
-<p align="center">
   </a>
 </p>
 
