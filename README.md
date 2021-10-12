@@ -12,6 +12,7 @@
 - 📫 How to reach me ...  @ nadundias321@gmail.com
 
 <p align="center">
+<h2 align="center">Watch a snake-eating🐍 my contribution graph on Github</h2>
 <img src="./assets/contribution-snake.svg"/> 
 </p>
 
