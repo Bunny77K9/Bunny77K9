@@ -1,8 +1,8 @@
 ![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)
+
 <p align="center">
 <img src="./assets/contribution-snake.svg"/> 
 </p>
-[![Nandun's Contribution Snake](./assets/contribution-snake.svg)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
 ![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)
 ![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)
