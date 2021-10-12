@@ -1,6 +1,6 @@
 ![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)
 <p align="center">
-[![Nandun's Contribution Snake](./assets/contribution-snake.svg)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
+<img src="./assets/contribution-snake.svg"/> 
 </p>
 [![Nandun's Contribution Snake](./assets/contribution-snake.svg)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
