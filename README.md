@@ -9,7 +9,6 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Software Engineering at University Of Westminster
 - 💞️ I’m looking to collaborate on cloud developing
-- 📫 How to reach me ...  @ nadundias321@gmail.com
 
 <h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
 
