@@ -1,9 +1,5 @@
 ![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)
 
-<p align="center">
-<img src="./assets/contribution-snake.svg"/> 
-</p>
-
 ![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)
 ![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)
@@ -14,6 +10,10 @@
 - 🌱 I’m currently learning Software Engineering at University Of Westminster
 - 💞️ I’m looking to collaborate on cloud developing
 - 📫 How to reach me ...  @ nadundias321@gmail.com
+
+<p align="center">
+<img src="./assets/contribution-snake.svg"/> 
+</p>
 
 <p align="center">
   <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
