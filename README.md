@@ -13,7 +13,7 @@
 
 <p align="center">
 <h2 align="center">Watch a snake-eating🐍 my contribution graph on Github</h2>
-<img src="./assets/contribution-snake.svg"/> 
+<img align="center" src="./assets/contribution-snake.svg"/> 
 </p>
 
 <p align="center">
