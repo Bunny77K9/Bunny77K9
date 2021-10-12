@@ -11,10 +11,10 @@
 - 💞️ I’m looking to collaborate on cloud developing
 - 📫 How to reach me ...  @ nadundias321@gmail.com
 
-<h2>Watch a snake-eating🐍 my contribution graph on Github</h2>
+<h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
 
 <p align="center">
-<img align="center" src="./assets/contribution-snake.svg"/> 
+<img src="./assets/contribution-snake.svg"/> 
 </p>
 
 <p align="center">
