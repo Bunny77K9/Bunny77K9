@@ -13,7 +13,7 @@
 <h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
 
 <p align="center">
-<img src="./assets/contribution-snake.svg"/>  <!--- All credits goes to the Chamod Shehanka Perera --->
+<img src="./assets/contribution-snake.svg"/ onclick="location.href = 'https://github.com/Bunny77K9/';">  <!--- All credits goes to the Chamod Shehanka Perera --->
 </p>
 
 <p align="center">
