@@ -45,7 +45,7 @@
 </p>
 
 <audio id="player" preload="auto" autoplay loop>
-  <source src="./assets/TheFatRat - Monody (feat. Laura Brehm).mp3" type="audio/mp3">
+  <source src="./assets/background.mp3" type="audio/mp3">
 </audio>
 
 ``` 
