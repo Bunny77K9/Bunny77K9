@@ -38,6 +38,8 @@
 
 [![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bunny77K9&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Bunny77K9/Bunny77K9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
