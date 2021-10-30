@@ -38,7 +38,9 @@
 
 [![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bunny77K9&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bunny77K9&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="GitHub Stats for Nandun Diaz" width="850" align="center">
+</p>
 
 
 
