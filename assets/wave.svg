@@ -75,9 +75,6 @@ body {
     height: 17vw;
   }
 }
-body {
-  background-color: #234;
-}
 </style>
  <defs>
  <path id="gentle-wave"
