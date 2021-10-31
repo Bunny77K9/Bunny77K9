@@ -5,9 +5,11 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://bunny77k9.github.io/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://bunny77k9.github.io/)
 
+
+
 - 👋 Hi, I’m @Bunny77K9
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Software Engineering at University Of Westminster
+- 🌱 I’m currently studying Software Engineering at University Of Westminster
 - 💞️ I’m looking to collaborate on cloud developing
 
 <h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
