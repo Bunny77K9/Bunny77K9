@@ -58,7 +58,7 @@
 
 ```
 <p align="center">
-<img src="./assets/wave.svg" onclick="location.href = 'https://github.com/Bunny77K9/';">
+<a href="https://github.com/Bunny77K9/"><img src="./assets/wave.svg"></a>
 </p>
 
 <!---
