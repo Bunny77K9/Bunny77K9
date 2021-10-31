@@ -57,9 +57,9 @@
 ▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
 
 ```
-<p width="100%">
+<!---<p width="100%">
 <a href="#"><img align="left" src="./assets/code.gif"></a>
-</p>
+</p>--->
 
 <p align="center">
 <a href="#"><img src="./assets/wave.svg" width="100%"></a>
