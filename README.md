@@ -44,13 +44,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Bunny77K9&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="GitHub Stats for Nandun Diaz" width="100%" align="center">
 </p>
 
-<audio id="player" preload="auto" autoplay loop>
-  <source src="./assets/background.mp3" type="audio/mp3">
-</audio>
-<video width="320" height="240" controls autoplay>
-  <source src="./assets/background.mp3" type="video/mp4">
-</video>
-
 ``` 
           @Bunny77K9's 2020 GitHub Skyline          
 
@@ -62,7 +55,6 @@
 ▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
 
 ```
-
 
 <!---
 Bunny77K9/Bunny77K9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
