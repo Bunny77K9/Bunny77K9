@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://bunny77k9.github.io/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://bunny77k9.github.io/)
 
-<img align="right" width="150" height="150" src="./assets/animi.svg"></a>
+<a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
 
 - 👋 Hi, I’m @Bunny77K9
 - 👀 I’m interested in AI and ML
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  <a href="https://github.com/Bunny77K9/"><img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"/></a>  
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">Issued for the most active users in the GitHub 2021</p>
 </p>
