@@ -9,7 +9,7 @@
     }
     .st2{fill:#FFFFFF;stroke:none;}
     body{
-	  padding-bottom: 100px;
+	  padding-bottom: 10%;
 	  }
   </style>
   	<path class="st1" id="motionpath" d="M70.9,246.8l32.5-125.9c7.6-22.4,37-27.6,51.8-9.2L263.8,252c3.4,4.3,10.2,0.7,8.7-4.5L245,122.7
