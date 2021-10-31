@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://bunny77k9.github.io/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://bunny77k9.github.io/)
 
-<a href="#"><img align="right" width="150" height="auto" src="./assets/animi.svg"></a>
+<a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
 
 - 👋 Hi, I’m @Bunny77K9
 - 👀 I’m interested in AI and ML
