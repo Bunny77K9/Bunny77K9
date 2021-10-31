@@ -1,16 +1,16 @@
-<svg id="JIRA_loader" style="enable-background:new 0 0 354.4 614.1;" version="1.1" viewBox="0 0 354.4 614.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+<svg id="JIRA_loader" style="enable-background:new 0 0 354.4 614.1;" version="1.1" viewBox="0 0 354.4 714.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
   <style type="text/css">
     .st0 {
-      fill: #fff;
+      fill: #000;
     }
     .st1 {
       fill: none;
       stroke: none;
     }
-    .st2{fill:#FFFFFF;stroke:none;}
-    body{
-	  padding-bottom: 10%;
-	  }
+    .st2{
+	fill:#FFFFFF;stroke:none;
+	}
+
   </style>
   	<path class="st1" id="motionpath" d="M70.9,246.8l32.5-125.9c7.6-22.4,37-27.6,51.8-9.2L263.8,252c3.4,4.3,10.2,0.7,8.7-4.5L245,122.7
   	c-6.7-22.9-36.1-29.3-51.6-11.1l-114,140.2C75.8,255.9,69.1,252.1,70.9,246.8z"/>
