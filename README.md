@@ -55,6 +55,9 @@
 ▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
 
 ```
+<p align="center">
+<img src="./assets/wave.svg" onclick="location.href = 'https://github.com/Bunny77K9/';">
+</p>
 
 <!---
 Bunny77K9/Bunny77K9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
