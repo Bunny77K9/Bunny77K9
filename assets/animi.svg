@@ -2,6 +2,7 @@
   <style type="text/css">
     .st0 {
       fill: #fff;
+	  margin-bottom: 100px;
     }
     .st1 {
       fill: none;
@@ -13,7 +14,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 100px;
+  
 }
   </style>
   	<path class="st1" id="motionpath" d="M70.9,246.8l32.5-125.9c7.6-22.4,37-27.6,51.8-9.2L263.8,252c3.4,4.3,10.2,0.7,8.7-4.5L245,122.7
