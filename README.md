@@ -46,6 +46,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bunny77K9&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
 </p>
 
+<a href="#"><img src="./assets/ezgif-3-0b9cb540c295.gif" alt="@bunny77k9's 
+2020 GitHub Skyline"></a>
+
 ``` 
   @Bunny77K9's 2020 GitHub Skyline 
   
