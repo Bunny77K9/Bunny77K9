@@ -1,9 +1,9 @@
 [![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)](https://bunny77k9.github.io/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://bunny77k9.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://bunny77k9.github.io/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://bunny77k9.github.io/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://bunny77k9.github.io/)
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https://github.com/Bunny77K9/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandunDiaz)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulajdiaz/)
+[![CodePen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NandunDiaz)
 
 <a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
 
