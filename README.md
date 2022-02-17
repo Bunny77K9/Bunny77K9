@@ -51,7 +51,7 @@
 
 <a href="#"><img src="./assets/ezgif-3-0b9cb540c295.gif" alt="@bunny77k9's 
 2020 GitHub Skyline"></a>
-<a href="#"><img src="./assets/gun.svg" width="40%"></a>
+<a href="#"><img src="./assets/gun.svg" width="30%"></a>
 
 ``` 
   @Bunny77K9's 2020 GitHub Skyline 
