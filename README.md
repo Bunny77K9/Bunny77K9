@@ -39,7 +39,16 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
+  
 </p>
+<br>
+<div align="center">
+  <h3><b>Github Badges</b></h3>
+  <a href="#"><img src="./assets/badge-arctic-code-vault-small.png" alt="arctic vault badge"></a>
+  <a href="#"><img src="./assets/badge-sponsors-small.png" alt="premium sponsor badge"></a>
+  <a href="#"><img src="./assets/badge-mars-2020-small.png" alt="mars helicopter badge"></a>
+</div>
+<br>
 
 [![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
