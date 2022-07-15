@@ -59,7 +59,7 @@
 </p>
 
 <a href="#"><img align="right" src="./assets/ezgif-3-0b9cb540c295.gif" alt="@bunny77k9's 
-2020 GitHub Skyline"  width="70%"></a>
+2020 GitHub Skyline"></a>
 
 ``` 
   @Bunny77K9's 2020 GitHub Skyline 
@@ -75,7 +75,7 @@
 <!---<p width="100%">
 <a href="#"><img align="left" src="./assets/code.gif"></a>
 </p>--->
-
+<br>
 <p align="center">
 <a href="#"><img src="./assets/wave.svg" width="100%"></a>
 </p>
