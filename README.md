@@ -72,6 +72,9 @@
 ▁▁█████▅██▅████████████▅██████████████████▅█▁██▅█▁██▁
 ```
 
+<a href="#"><img src="./assets/bunny-2021.gif" alt="@bunny77k9's 
+2021 GitHub Skyline" width="100%" height="auto"></a>
+
 <!---<p width="100%">
 <a href="#"><img align="left" src="./assets/code.gif"></a>
 </p>--->
