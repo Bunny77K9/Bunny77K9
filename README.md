@@ -60,6 +60,8 @@
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bunny77K9&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
 <br><br>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Bunny77K9&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
+<br><br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunny77k9&layout=compact&theme=algolia&hide_border=true" alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
 </p>
 
 <a href="#"><img src="./assets/ezgif-3-0b9cb540c295.gif" alt="@bunny77k9's 
