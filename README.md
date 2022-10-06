@@ -6,7 +6,7 @@
 [![CodePen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NandunDiaz)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Bunny77K9)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gitlab.com/Bunny77K9)
-[![StackOverflow Badge](https://img.shields.io/badge/Stack_Over-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16005578/bunny?tab=profile)
+[![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflo-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16005578/bunny?tab=profile)
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react,vue,flutter,activitypub,androidstudio,angular,appwrite" />
 
 <a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
