@@ -1,12 +1,14 @@
 [![Nandun's GitHub Banner](./assets/SL_073119_22070_22.png)](https://bunny77k9.github.io/)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NandunDiaz)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulajdiaz/)
 [![CodePen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/NandunDiaz)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Bunny77K9)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gitlab.com/Bunny77K9)
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16005578/bunny?tab=profile)
+[![TouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8f4LwI-z_JuQENJUtk0K1g/featured)
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,gcp,azure,react,vue,flutter,activitypub,androidstudio,angular,appwrite" />
 
 <a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
 
