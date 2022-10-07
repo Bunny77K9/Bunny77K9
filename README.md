@@ -9,7 +9,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/Stack_Overflo-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16005578/bunny?tab=profile)
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,js,aws,gcp,azure,react,mongodb,flutter,activitypub,androidstudio,angular,appwrite" />
 
-<a href="#"><img align="right" width="200" height="200" src="./assets/animi.svg"></a>
+<a href="#"><img align="right" width="300" height="300" src="./assets/animi.svg"></a>
 
 - 👋 Hi, I’m Bunny!
 - 👀 I’m interested in AI and ML
