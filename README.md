@@ -13,8 +13,8 @@
 
 - 👋 Hi, I’m Bunny!
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently reading Software Engineering at @UoW
-- 👩‍💻 I’m working as an Intern Software Enigineer at @IFS
+- 🌱 I’m currently reading Software Engineering at UoW
+- 👩‍💻 I’m working as an Intern Software Enigineer @IFS
 - 💜 I’m looking to collaborate on cloud developing
 - 💬 Ask me about Golang, TypeScript and Cloud
 - 💌 How to reach me: nandundiaz@icloud.com
