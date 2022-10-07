@@ -13,8 +13,13 @@
 
 - 👋 Hi, I’m Bunny!
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently studying Software Engineering at University Of Westminster
-- 💞️ I’m looking to collaborate on cloud developing
+- 🌱 I’m currently reading Software Engineering at @UoW
+- 👩‍💻 I’m working as an Intern Software Enigineer at @IFS
+- 💜 I’m looking to collaborate on cloud developing
+- 💬 Ask me about Golang, TypeScript and Cloud
+- 💌 How to reach me: nandundiaz@icloud.com
+- 🕵️‍♀️ Pronouns: He/Him
+- ⚡ Fun fact: Sometimes I confuse my doggy! 😜
 
 <h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
 
