@@ -11,7 +11,7 @@
 
 <a href="#"><img align="right" width="150" height="150" src="./assets/animi.svg"></a>
 
-- 👋 Hi, I’m @Bunny77K9
+- 👋 Hi, I’m Bunny!
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently studying Software Engineering at University Of Westminster
 - 💞️ I’m looking to collaborate on cloud developing
