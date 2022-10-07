@@ -11,7 +11,7 @@
 
 <a href="#"><img align="right" width="280" height="230" src="./assets/doggy.gif"></a>
 
-- 👋 Hi, I’m Bunny!
+- 👋 Hi, I’m <b>Bunny</b>!
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently reading Software Engineering at UoW
 - 👩‍💻 I’m working as an Intern Software Enigineer @IFS
@@ -19,7 +19,7 @@
 - 💬 Ask me about Golang, TypeScript and Cloud
 - 💌 How to reach me: nandundiaz@icloud.com
 - 🕵️‍♀️ Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I confuse my doggy! 😜
+- ⚡ Fun fact: Sometimes I confuse my <b>Doggy</b>! 😜
 
 <h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
 
