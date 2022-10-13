@@ -50,11 +50,13 @@
 </p>
 <br>
 <div align="center">
-  <h3><b>Github Badges</b></h3>
-  <a href="#"><img src="./assets/badge-arctic-code-vault-small.png" alt="arctic vault badge"></a>
-  <a href="#"><img src="./assets/badge-sponsors-small.png" alt="premium sponsor badge"></a>
-  <a href="#"><img src="./assets/badge-mars-2020-small.png" alt="mars helicopter badge"></a>
+  <h3><b>HOLOPIN BADGE BOARD</b></h3>
 </div>
+
+<br>
+
+[![@nandx's Holopin board](https://holopin.me/nandx)](https://holopin.io/@nandx)
+
 <br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bunny77k9&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
