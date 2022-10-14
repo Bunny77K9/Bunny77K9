@@ -50,7 +50,7 @@
 </p>
 <br>
 <div align="center">
-  <h3><b>HOLOPIN BADGE BOARD</b></h3>
+  <h2><b>✨ HOLOPIN BADGE BOARD ✨</b></h2>
 </div>
 
 <br>
