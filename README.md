@@ -59,11 +59,13 @@
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bunny77k9&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">
+[![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
 
 <br>
 
-[![Nandun's GitHub Banner](./assets/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)](https://help.cloudsmith.io/docs/integrating-with-github-actions)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bunny77K9&theme=github-compact&hide_border=true)](https://github.com/bunny77K9/github-readme-activity-graph)
+
+<br>
 
 <p align="center">
 <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bunny77K9&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="GitHub Stats for Nandun Diaz" width="100%" align="center"></a>
@@ -92,6 +94,10 @@
 <!---<p width="100%">
 <a href="#"><img align="left" src="./assets/code.gif"></a>
 </p>--->
+
+<br>
+
+**<p align="center"> Made with ❤ by Nandun </p>**
 
 <p align="center">
 <a href="#"><img src="./assets/wave.svg" width="100%"></a>
