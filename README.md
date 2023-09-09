@@ -63,7 +63,7 @@
 
 <br>
 
-[![Nandun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bunny77K9&theme=github-compact&hide_border=true)
+[![Nandun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bunny77K9&theme=tokyo-night&hide_border=true)](https://github.com/Bunny77K9/)
 
 <br>
 
