@@ -15,10 +15,9 @@
 - 👋 Hi, I’m <b>Bunny</b>!
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently reading Software Engineering at UoW
-- 👩‍💻 I’m working as an Intern Software Enigineer @IFS
+- 👩‍💻 I’m working as a Trainee Software Engineer @IFS
 - 💜 I’m looking to collaborate on cloud developing
 - 💬 Ask me about Golang, TypeScript and Cloud
-- 💌 How to reach me: nandundiaz@icloud.com
 - 🕵️‍♀️ Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I confuse my <b>Doggy</b>! 😜
 
