@@ -21,7 +21,7 @@
 - 🕵️‍♀️ Pronouns: He/Him
 - ⚡ Fun fact: Sometimes I confuse my <b>Doggy</b>! 😜
 
-<h2 align="center">Watch a snake-eating my contribution graph on Github 🐍</h2>
+<h2 align="center">Watch snake-eating my contribution graph on Github 🐍</h2>
 
 <p align="center">
 <a href="https://github.com/Bunny77K9/"><img src="./assets/contribution-snake.svg"></a>  <!--- All credits goes to the Chamod Shehanka Perera --->
