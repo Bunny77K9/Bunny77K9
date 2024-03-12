@@ -14,13 +14,12 @@
 <a href="#"><img align="right" width="280" height="230" src="./assets/doggy.gif"></a>
 
 - 👋 Hi, I’m <b>Nandun</b>!
+- 🕵️‍♀️ Pronouns: He/Him
 - 👀 I’m interested in AI, ML & Full-Stack web dev
 - 🌱 I’m currently reading Software Engineering at UoW
 - 👩‍💻 I’m working as a Trainee Software Engineer @IFS
 - 💜 I’m looking to collaborate on open-source
-- 💬 Ask me about Java, TypeScript, ML or Cloud
-- 🕵️‍♀️ Pronouns: He/Him
-- ⚡ Fun fact: Sometimes I confuse my <b>Doggy</b>! 😜
+- 💬 Ask me about Azure, MLOps or Cloud Services
 
 <h2 align="center">Watch snake-eating my contribution graph on Github 🐍</h2>
 
